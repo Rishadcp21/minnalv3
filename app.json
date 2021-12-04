@@ -1,9 +1,9 @@
 {
-    "name": "Zaramwol",
-    "description": "Zara bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/9rrnJ7g/20210815-080839.jpg",
+    "name": "MinnalBot",
+    "description": "Minnal Bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://www.linkpicture.com/q/PicsArt_12-01-09.26.44_4.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Jokerser-x-Raashii/Zaramwol",
+    "repository": "https://github.com/Rishadcp21/minnalv3",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
